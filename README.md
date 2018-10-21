@@ -2,7 +2,6 @@
 
 **Note:** We are continously working to improve the questions quality and adding more question Incrementally. Please feel free to contribute to add more question, improve the articulation and correct the typos.  
 
-A helpful list of Vuejs interview questions. You can assess the potential candidates or try yourself. 
 
 ## General Interview Questions
 * What is virtual DOM? 
