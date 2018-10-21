@@ -1,4 +1,7 @@
 # Vuejs Interview Questions
+
+**Note:** We are continously working to improve the questions quality and adding more question Incrementally. Please feel free to contribute to add more question, improve the articulation and correct the typos.  
+
 A helpful list of Vuejs interview question. You assess the potential candidate or try yourself. 
 
 * Why should you use Vue.js? 
