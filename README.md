@@ -1,32 +1,31 @@
-# Vuejs Interview Questions
+## Interview Questions
 
-**Note:** We are continously working to improve the questions quality and adding more question Incrementally. Please feel free to contribute to add more question, improve the articulation and correct the typos.  
+### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/javascript-questions.md)
+### React
+### [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs-questions.md)
+### CSS & CSS3
+### HTML & HTML5
+### Web Performance
+### Time Complexity 
+### Data structure and Algorithm
+### System Desgining 
 
 
-## General Interview Questions
-* What is virtual DOM? 
-* How virtual DOM is differentiate than real dom? 
-* Why should we prefer modern JS frameworks over jQuery? 
-* What JS being used among JS frameworks? 
-* What are the advantages or disadvatages of use modern JS frameworks?  
 
-## Core Vue.js Interview Questions
-* What Is Vue.js?
-* Why should you use Vue.js? 
-* What are differences between React.js, Vue.js and Angular.js? 
-* How to handle Events in Vue.js?
-* How to create Components in Vue.js?
-* What are directives? 
-* What are Vuejs instances Lifecycle?
-* In how many ways we can update the view of application? 
+Important articles to read before your interview
+[Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+[ThatJsDude](http://www.thatjsdude.com/interview/index.html)
+[Cracking frontend interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 
-## Vuex Interview Questions
-* What is Vuex? 
-* Can we use Redux instead of using Vuex? 
-* What design architecture does it follow? 
-* What are the main component of a store? 
 
-## Vue Router Interview Questions
-* What is Vue router? 
-* How to add dynamic title to each page of the application? 
+
+
+### Test your javascript skills
+[http://davidshariff.com/js-quiz/](http://davidshariff.com/js-quiz/)
+[10 interview question a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
+
+### Test your css skills
+
+### Test your css skills 
 
