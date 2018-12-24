@@ -22,8 +22,8 @@ Important articles to read before your interview
 
 
 ### Test your javascript skills
-* [http://davidshariff.com/js-quiz/](http://davidshariff.com/js-quiz/)
-* [10 interview question a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [JS quiz - David Shariff](http://davidshariff.com/js-quiz/)
+* [10 interview questions a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 
 ### Test your css skills
