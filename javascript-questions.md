@@ -1,8 +1,8 @@
 Define yourself
-(Beginner (0 - 1 years of experience))[]
-(Intermediate (1 - 3 years of experience))[]
-(Expert (3 - 5 years of experience))[]
-(Ninja (5+ years of experience))[] 
+[Beginner (0 - 1 years of experience)]()
+[Intermediate (1 - 3 years of experience)]()
+[Expert (3 - 5 years of experience)]()
+[Ninja (5+ years of experience)]()
 
 
 
