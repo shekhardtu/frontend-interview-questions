@@ -13,16 +13,16 @@
 
 
 Important articles to read before your interview
-[Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
-[ThatJsDude](http://www.thatjsdude.com/interview/index.html)
-[Cracking frontend interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
+* [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+* [ThatJsDude](http://www.thatjsdude.com/interview/index.html)
+* [Cracking frontend interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 
 
 
 
 ### Test your javascript skills
-[http://davidshariff.com/js-quiz/](http://davidshariff.com/js-quiz/)
-[10 interview question a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [http://davidshariff.com/js-quiz/](http://davidshariff.com/js-quiz/)
+* [10 interview question a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 
 ### Test your css skills
