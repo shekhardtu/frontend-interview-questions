@@ -41,6 +41,29 @@ Reading Material:
  Q. Explain bind, apply and call.
  
  
+ 
+### Object Oriented Javascript
+ What is class in javascript?
+ 
+ What is the use of Static keyword in javascript? 
+ 
+ How to initiate an object? 
+ How to create private and public methods in Javascript? 
+ 
+ 
+### Functional Programming
+ What is functional Programming? 
+ How it is different than OOP? 
+ What are different challenges come across functional programming? 
+ What is map, filter and reduce and their working? 
+ Perform map and filter functionality using reduce. 
+ 
+ 
+ 
+### API Question
+ What are different types of status codes range and their purpose of use? 
+ 
+ 
  ## These questions are reasonable to ask a intermediate developer.
  
  ## These questions are reasonable to ask a expert developer.
