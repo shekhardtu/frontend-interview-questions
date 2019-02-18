@@ -61,7 +61,7 @@ Reading Material:
  
  
 ### API Question
- What are different types of status codes range and their purpose of use?  
+ Explain api status code range and their purpose of use?  
  
  
  ## These questions are reasonable to ask a intermediate developer.
