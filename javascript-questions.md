@@ -40,6 +40,9 @@ Reading Material:
 
  Q. Explain bind, apply and call.
  
+ Q. Returns the difference between two arrays 
+  eg. difference([1,2,3], [1,2,4]) @returns [3]
+ 
  
  
 ### Object Oriented Javascript
