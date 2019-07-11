@@ -83,8 +83,9 @@ Spread operator can be used to copy one Object in another Object.
 ```js
 const obj1 = {a: 1, b: 2, c: 3};
 const obj2 = {...obj2, d: 4, e: 5} // {a: 1, b: 2, c: 3, d: 4, e: 5}
+```
 
-Note: while using Object spread operator, be aware that it will copy only immediate properties (shallow copies). 
+*Note: while using Object spread operator, be aware that it will copy only immediate properties (shallow copies).* 
 
 
 
