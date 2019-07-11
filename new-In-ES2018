@@ -6,21 +6,26 @@ Javascript is ever evolving language, we have seen the dramatic changes since th
 ###Asynchronous Iteration: 
 
 You might have encountered with asynchronous iteration using async/await 
-  async function performSomething(array) {
+ 
+ ```js 
+ async function performSomething(array) {
     for(var i = 0; i < array.length; i++) {
       await asyncRequest(array[i]) 
     }
   }
   
+ ```
+  
 It will work but there is cleaner way to do it. ES9 has introduce asynchronous for loop iterators 
   
+```js
 
 async function performSomething(array) {
   for await(let i of array) {
      asyncRequest(array[i]) 
   }
 }
-
+```
 
 ###Promise.finally(); 
 
@@ -29,6 +34,7 @@ execute the success events using .then() method and failed in .catch() method. B
 some tasks in either of the condition. ES9 has introduced the .finally prototype. You don't need to duplicate the code in then() or catch() 
 write logic regard less of the state in .finally() method. 
 
+```js
 function doSomething() {
   doAnotherThing()
   .then()
@@ -39,3 +45,4 @@ function doSomething() {
     // Do all common things as you want to do in then and catch
    });
 }
+```
