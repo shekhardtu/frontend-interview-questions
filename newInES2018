@@ -1,0 +1,41 @@
+In this article, we will discuss about the new features in ECMA SCRIPT 2018 or ES9, including the examples of what they are and their use cases.  
+
+Javascript is ever evolving language, we have seen the dramatic changes since the beginning of it inception to most recent mega release of ES6(ECMA SCRIPT 2015). 
+
+
+###Asynchronous Iteration: 
+
+You might have encountered with asynchronous iteration using async/await 
+  async function performSomething(array) {
+    for(var i = 0; i < array.length; i++) {
+      await asyncRequest(array[i]) 
+    }
+  }
+  
+It will work but there is cleaner way to do it. ES9 has introduce asynchronous for loop iterators 
+  
+
+async function performSomething(array) {
+  for await(let i of array) {
+     asyncRequest(array[i]) 
+  }
+}
+
+
+###Promise.finally(); 
+
+The promise object contains the set of asynchronous states. It can be either pending, success or failed. In promise we have
+execute the success events using .then() method and failed in .catch() method. But their might be chances that we need to perform 
+some tasks in either of the condition. ES9 has introduced the .finally prototype. You don't need to duplicate the code in then() or catch() 
+write logic regard less of the state in .finally() method. 
+
+function doSomething() {
+  doAnotherThing()
+  .then()
+  .then()
+  .then()
+  .catch()
+  .finally(()=> {
+    // Do all common things as you want to do in then and catch
+   });
+}
