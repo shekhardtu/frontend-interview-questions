@@ -1,5 +1,7 @@
-##### 1. Write poly-fill of Object.create and explain why it worked
 
+##### 1. Write poly-fill of Object.create and explain why it worked</summary>
+
+	
 ```js 
 if(typeof Object.create != "function") {
     Object.create = function(param) {
@@ -8,8 +10,8 @@ if(typeof Object.create != "function") {
         return new Fun();
     }
 }
+	
 ```
-
 ##### 2. What new does when we create instance, what if we do not add it etc.
 ##### 3. Write poly-fill of bind and extend it to support following functionality:
 
