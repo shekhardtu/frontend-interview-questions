@@ -7,9 +7,33 @@
 	- Some: 
 	- Every: 
 	- Object.assign: 
-	- 
+	- Promise: https://brunoscopelliti.com/lets-write-a-promise-polyfill/
 
-##### 2. What new does when we create instance, what if we do not add it etc.
+
+##### 2. Write standard functions of following
+	- Debounce
+	- Throttle
+	- Memomize
+	
+##### 3. Implement Design pattern of following
+	- Singleton
+	- Prototype 
+	- Pub/Sub
+	- Mixin
+	- Observer
+	- Revealing module pattern?
+	
+##### 4. Design a library or component 
+	- Carousel
+	- Auto-complete/Auto Suggest, 
+	- Game timer 
+	- Splitwise 
+	- Lazy loading
+	- Modal/Popup 
+	- Autosuggest multiple tags etc.
+	- Progress bar 
+	
+##### 3. What new does when we create instance, what if we do not add it etc.
 
 ##### 4. Implement curry function:
 
@@ -36,13 +60,12 @@ var curry = function (fn, ...m) {
 ```
 ##### 5. Memory leaks in closures? Where closure variable are stored?
 ##### 6. Implement jQuery, underscore like library?
-##### 7. Design a library or component - Carousel, auto-complete, game timer, split - wise, lazy loading etc.
-##### 8. Implement Design pattern - Pub/Sub, Mixin, Observer, revealing module pattern?
+
+
 ##### 9. Difference between classical and prototype inheritence? If you design a language, which one will you choose?
 ##### 10. Testing framework in detail - How will you test ajax request, fixtures, mocking, spy, stub etc.
 ##### 11. Why immutability is important? How will you bring immutability in JS?
 ##### 12. const obj = { "a" : 1 }
-
 ##### Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
 
 ##### 13. Object.freeze and Object.seal. Another way of asking is, how will you prevent object property value to be updated or added?
@@ -70,7 +93,7 @@ a[c]=456;
 console.log(a[b]);
 ```
 
-##### 17. Callback, Promise, Observable, Generators 
+##### 17. Difference and uses of Callback, Promise, Observable, Generators 
 ##### 18. Design a game eg. tic tac toe etc.
 ##### 19. How can I get the depth of the deepest li tag in an unordered list?
 
@@ -86,6 +109,7 @@ http://stackoverflow.com/questions/22248432/calculate-depth-of-unordered-list
 ##### 23. How will you handle cross site scripting, sanitization etc.?
 ##### 24. How will you handle date - time in your product?
 ##### 25. What is Cross-site request forgery(CSRF) and How will you save site from Cross-site request forgery?
+	a. https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
 ##### 26. How declare static variable and function and what's the use?
 ##### 27. What will be output of below:
 ```js
@@ -94,7 +118,7 @@ X.push(X)
 console.log(X)
 ```
 ##### 28. How will you replace backslash in a string? 
-##### 29. Wha will be output of following:
+##### 29. What and why will be output of following:
 ```js
 var a = '1';
 var b = 'c';
@@ -140,6 +164,7 @@ for(var i = 1; i <= 5; i++) {
     console.log('var x => ', x);	
 })()
 ```
+hositing order => funtion definition -> variable declaration 
 ##### 33. Question on static function:
 ```js
 function A() {}
@@ -175,27 +200,26 @@ var head = {};
 
 ##### 37. Server side rendering vs client side rendering and its effect on SEO and performence
 
-##### 38. Progressive Web App
+##### 38. Progressive Web App: Create a dummy app to weather report
 
 ##### 39. All type of ajax request, headers, options call, CORS etc.
 
-##### 40. Two way data binding vs one way data binding
+##### 40. Implementation and difference between Two way data binding vs one way data binding
 
 ##### 41. OAuth implementation
 
 ##### 42. CSS 3.0 - Animation and other props
 
-##### 43. Lazy loading implementation
 
-##### 44. Chrome dev tool - e.g. profiler etc.
 
-##### 45. How will you implement 2 way data binding
+##### 43. Chrome dev tool - e.g. profiler etc.
 
-##### 46. debounce and throttle method
 
-##### 47. Implementation of state management in react
+##### 44. debounce and throttle method
 
-##### 48. Implement generic curry function:
+##### 45. Implementation of state management in react
+
+##### 46. Implement generic curry function:
 ```js
 function getVolume(l, h, w) {
 	console.log('voulume: ' + (l * h * w));
@@ -216,14 +240,14 @@ var curry = curryFun(getVolume);
 
 curry(2)(3)(4);
 ```
-##### 49. CSS Questions - Box Model (margin-collapse rules, box-sizing),
+##### 47. CSS Questions - Box Model (margin-collapse rules, box-sizing),
 	float (clear etc., effect of display: block),
 	position, overflow-hidden: what it does,
 	Ways to align the item center,
         flex box, grid layout, box-shadow
-##### 50. setInterval and clearInterval using setTimeout and clearTimeout
-##### 51. CSS Interview questions: https://css-tricks.com/interview-questions-css/
-##### 52. Write a curry function to execute the following questions
+##### 48. setInterval and clearInterval using setTimeout and clearTimeout
+##### 49. CSS Interview questions: https://css-tricks.com/interview-questions-css/
+##### 50. Write a curry function to execute the following questions
 
 ```js
 function curry(fn) {
@@ -252,7 +276,7 @@ console.log(result(1)(2)(3));
 console.log(result(1, 2)(3));
 console.log(result(1)(2, 3));
 ```
-##### 53. Write Poly-fill of Promise? https://brunoscopelliti.com/lets-write-a-promise-polyfill/
+
 ##### 54. Difference between get, post, put, delete
 ##### 55. How to use Memoize to cache JavaScript function results and speed up your code 
 https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e
@@ -260,5 +284,9 @@ https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e
 https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an-image-in-html-css
 
 ##### 57. Middelware design pattern: https://gist.github.com/darrenscerri/5c3b3dcbe4d370435cfa
-##### 58. Develop progress bar component
 ##### 59. Web components, npm modules 
+##### 60. Write a function to evaluate 
+	- add(1)(2)(3);
+	- add(1)(2,3)(4)(5,6,7);
+	- add(2,3,4,5)(1)();
+	- add(20)(10)(10).toValue();
