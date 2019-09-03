@@ -1,5 +1,5 @@
 
-##### 1. Write poly-fill of following
+##### 1. Write poly-fill of the followings
 	- Bind: https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df
 	- Reduce:
 	- Filter: https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1
@@ -10,12 +10,16 @@
 	- Promise: https://brunoscopelliti.com/lets-write-a-promise-polyfill/
 
 
-##### 2. Write standard functions of following
+##### 2. Write standard functions of the followings
 	- Debounce
 	- Throttle
 	- Memomize
+	- Object Deep Clone
+	- Object shallow copy
 	
-##### 3. Implement Design pattern of following
+	
+	
+##### 3. Implement Design pattern of the followings
 	- Singleton
 	- Prototype 
 	- Pub/Sub
@@ -34,6 +38,7 @@
 	- Progress bar 
 	
 ##### 3. What new does when we create instance, what if we do not add it etc.
+##### 4. Explain prototypal inheritance with some example 
 
 ##### 4. Implement curry function:
 
