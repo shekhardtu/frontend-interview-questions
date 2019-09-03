@@ -1,13 +1,13 @@
 
 ##### 1. Write poly-fill of the followings
-	- Bind: https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df
-	- Reduce:
-	- Filter: https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1
-	- Map: 
-	- Some: 
-	- Every: 
-	- Object.assign: 
-	- Promise: https://brunoscopelliti.com/lets-write-a-promise-polyfill/
+> - Bind: <https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df>
+> - Reduce:
+> - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
+> - Map: 
+> - Some: 
+> - Every: 
+> - Object.assign: 
+> - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
 
 ##### 2. Write standard functions of the followings
