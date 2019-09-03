@@ -1,6 +1,6 @@
 ## Interview Questions
 
-### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/javascript-questions.md)
+### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/js.md)
 ### React
 ### [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs-questions.md)
 ### CSS & CSS3
@@ -25,8 +25,4 @@ Important articles to read before your interview
 * [JS quiz - David Shariff](http://davidshariff.com/js-quiz/)
 * [10 interview questions a JS developer should know - by Eric Elliott](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-
-### Test your css skills
-
-### Test your css skills 
 
