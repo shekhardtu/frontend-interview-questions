@@ -1,40 +1,15 @@
 
-##### 1. Write poly-fill of Object.create and explain why it worked</summary>
+##### 1. Write poly-fill of following
+	- Bind: https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df
+	- Reduce:
+	- Filter: https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1
+	- Map: 
+	- Some: 
+	- Every: 
+	- Object.assign: 
+	- 
 
-	
-```js 
-if(typeof Object.create != "function") {
-    Object.create = function(param) {
-        var Fun = function(){};
-        Fun.prototype = param;
-        return new Fun();
-    }
-}
-	
-```
 ##### 2. What new does when we create instance, what if we do not add it etc.
-##### 3. Write poly-fill of bind and extend it to support following functionality:
-
-```js
-var obj = { x: 1, y: 2 };
-function sum (arg1, arg2, arg3) {
-    return this.x + this.y + arg1 + arg2 + arg3;
-}
-
-var myCaller = sum.bind(obj, 4);
-myCaller(5, 6); //18 is the answer
-
-Function.prototype.bind = function() {
-    var arg = [].slice.call(arguments);
-    var that = arg[0];
-    var items = arg.slice(1);
-    var self = this;
-    return function () {
-        var elements = Array.prototype.slice.call(arguments);
-        return self.apply(that, items.concat(elements));
-    }
-}
-```
 
 ##### 4. Implement curry function:
 
