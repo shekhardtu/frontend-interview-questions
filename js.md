@@ -1,5 +1,5 @@
 
-##### 1. Write poly-fill of the followings
+##### 1. Write poly-fill of the followings (Minimal Implementation) 
 > - Bind: <https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df>
 > - Reduce: <https://gist.github.com/harishekhar/80425b082e99fb2aa6270d436e8bbeaa>
 > - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
