@@ -11,30 +11,30 @@
 
 
 ##### 2. Write standard functions of the followings
-> - Debounce:
-> - Throttle:
-> - Memomize:
+> - Debounce: <https://davidwalsh.name/javascript-debounce-function>
+> - Throttle: <https://css-tricks.com/debouncing-throttling-explained-examples/>
+> - Memomize: <https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/>
 > - Object Deep Clone: <https://gist.github.com/harishekhar/28247be45237a592cdfd7e858b92372d>
 
 	
 	
 	
 ##### 3. Implement Design pattern of the followings
-	- Singleton
-	- Prototype 
-	- Pub/Sub
-	- Mixin
-	- Revealing module pattern?
+> - Singleton:
+> - Prototype: 
+> - Pub/Sub:
+> - Mixin:
+> - Revealing module pattern:
 	
 ##### 4. Design a library or component 
-	- Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
-	- Auto-complete/Auto Suggest, 
-	- Game timer 
-	- Splitwise 
-	- Lazy loading
-	- Modal/Popup 
-	- Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
-	- Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
+> - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
+> - Auto-complete/Auto Suggest, 
+> - Game timer 
+> - Splitwise 
+> - Lazy loading
+> - Modal/Popup 
+> - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
+> - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 	
 ##### 3. What new does when we create instance, what if we do not add it etc.
 ##### 4. Explain prototypal inheritance with some example 
@@ -204,7 +204,7 @@ var head = {};
 
 ##### 37. Server side rendering vs client side rendering and its effect on SEO and performence
 
-##### 38. Progressive Web App: Create a dummy app to weather report
+##### 38. Progressive Web App: Create a dummy app of weather report
 
 ##### 39. All type of ajax request, headers, options call, CORS etc.
 
@@ -214,12 +214,8 @@ var head = {};
 
 ##### 42. CSS 3.0 - Animation and other props
 
-
-
 ##### 43. Chrome dev tool - e.g. profiler etc.
 
-
-##### 44. debounce and throttle method
 
 ##### 45. Implementation of state management in react
 
@@ -294,3 +290,4 @@ https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an
 	- add(1)(2,3)(4)(5,6,7);
 	- add(2,3,4,5)(1)();
 	- add(20)(10)(10).toValue();
+##### 61. Explain different type of web caching  
