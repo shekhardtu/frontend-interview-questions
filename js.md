@@ -10,7 +10,7 @@
 > - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
 
-##### 2. Write standard functions of the followings
+##### 2. Explain and write standard functions of the followings
 > - Debounce: <https://davidwalsh.name/javascript-debounce-function>
 > - Throttle: <https://css-tricks.com/debouncing-throttling-explained-examples/>
 > - Memomize: <https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/>
@@ -36,10 +36,13 @@
 > - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
 > - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 	
-##### 3. What new does when we create instance, what if we do not add it etc.
+
 ##### 4. Explain prototypal inheritance with some example 
 
-##### 4. Implement curry function:
+##### 5. Memory leaks in closures? Where closure variable are stored?
+##### 6. Implement jQuery, underscore like library?
+
+##### 7. Implement curry function:
 
 ```js
 var temp = curry(avg, 1, 2, 3);
@@ -62,15 +65,12 @@ var curry = function (fn, ...m) {
 }
 
 ```
-##### 5. Memory leaks in closures? Where closure variable are stored?
-##### 6. Implement jQuery, underscore like library?
-
-
+##### 8. What new does when we create instance, what if we do not add it etc.
 ##### 9. Difference between classical and prototype inheritence? If you design a language, which one will you choose?
 ##### 10. Testing framework in detail - How will you test ajax request, fixtures, mocking, spy, stub etc.
 ##### 11. Why immutability is important? How will you bring immutability in JS?
 ##### 12. const obj = { "a" : 1 }
-##### Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
+	Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
 
 ##### 13. Object.freeze and Object.seal. Another way of asking is, how will you prevent object property value to be updated or added?
 ##### 14. Event loop in JavaScript
@@ -291,3 +291,4 @@ https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an
 	- add(2,3,4,5)(1)();
 	- add(20)(10)(10).toValue();
 ##### 61. Explain different type of web caching  
+##### 62. Difference between http, https and http2 protocols 
