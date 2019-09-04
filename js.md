@@ -41,6 +41,7 @@
 > - <https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e>
 
 ##### 5. Memory leaks in closures? Where closure variable are stored?
+> - <https://www.lambdatest.com/blog/eradicating-memory-leaks-in-javascript/>
 ##### 6. Implement jQuery, underscore like library?
 
 ##### 7. Implement curry function:
