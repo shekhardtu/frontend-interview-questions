@@ -4,18 +4,18 @@
 > - Reduce: <https://gist.github.com/harishekhar/80425b082e99fb2aa6270d436e8bbeaa>
 > - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
 > - Map: <https://gist.github.com/harishekhar/19272c865ccdce8359d20579678c1f4d>
-> - Some: 
-> - Every: 
-> - Object.assign: 
+> - Some: <https://gist.github.com/harishekhar/355acf3c8e5847c7057a78d3d22c8d1b>
+> - Every: <https://gist.github.com/harishekhar/a3c9be0ead9f0b20cae268709c32e8ed>
+> - Object.assign: <>
 > - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
 
 ##### 2. Write standard functions of the followings
-> - Debounce
-> - Throttle
-> - Memomize
-> - Object Deep Clone
-> - Object shallow copy
+> - Debounce:
+> - Throttle:
+> - Memomize:
+> - Object Deep Clone: <https://gist.github.com/harishekhar/28247be45237a592cdfd7e858b92372d>
+
 	
 	
 	
@@ -24,18 +24,17 @@
 	- Prototype 
 	- Pub/Sub
 	- Mixin
-	- Observer
 	- Revealing module pattern?
 	
 ##### 4. Design a library or component 
-	- Carousel
+	- Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
 	- Auto-complete/Auto Suggest, 
 	- Game timer 
 	- Splitwise 
 	- Lazy loading
 	- Modal/Popup 
-	- Autosuggest multiple tags etc.
-	- Progress bar 
+	- Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
+	- Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 	
 ##### 3. What new does when we create instance, what if we do not add it etc.
 ##### 4. Explain prototypal inheritance with some example 
