@@ -39,9 +39,13 @@
 
 ##### 4. Explain prototypal inheritance with some example 
 > - <https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e>
+> - <https://javascript.info/prototype-inheritance>
 
 ##### 5. Memory leaks in closures? Where closure variable are stored?
 > - <https://www.lambdatest.com/blog/eradicating-memory-leaks-in-javascript/>
+> - <https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/>
+> - <https://stackoverflow.com/questions/19550253/memory-leaks-and-closures-in-javascript-when-and-why>
+
 ##### 6. Implement jQuery, underscore like library?
 
 ##### 7. Implement curry function:
