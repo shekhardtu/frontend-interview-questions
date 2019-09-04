@@ -3,7 +3,7 @@
 > - Bind: <https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df>
 > - Reduce: <https://gist.github.com/harishekhar/80425b082e99fb2aa6270d436e8bbeaa>
 > - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
-> - Map: 
+> - Map: <https://gist.github.com/harishekhar/19272c865ccdce8359d20579678c1f4d>
 > - Some: 
 > - Every: 
 > - Object.assign: 
@@ -11,11 +11,11 @@
 
 
 ##### 2. Write standard functions of the followings
-	- Debounce
-	- Throttle
-	- Memomize
-	- Object Deep Clone
-	- Object shallow copy
+> - Debounce
+> - Throttle
+> - Memomize
+> - Object Deep Clone
+> - Object shallow copy
 	
 	
 	
