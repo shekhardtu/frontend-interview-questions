@@ -295,6 +295,6 @@ https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an
 
 
 ##### Few articles to brush up js interview questions
-> <https://dev.to/aershov24/top-26-javascript-interview-questions-i-wish-i-knew-26k1>
-> <https://dev.to/adyngom/28-relevant-javascript-interview-questions-part-i-the-first-4-2a16>
-> <https://dev.to/adyngom/4-more-relevant-javascript-questions-to-help-fix-the-broken-coding-interview-3b8k>
+> - <https://dev.to/aershov24/top-26-javascript-interview-questions-i-wish-i-knew-26k1>
+> - <https://dev.to/adyngom/28-relevant-javascript-interview-questions-part-i-the-first-4-2a16>
+> - <https://dev.to/adyngom/4-more-relevant-javascript-questions-to-help-fix-the-broken-coding-interview-3b8k>
