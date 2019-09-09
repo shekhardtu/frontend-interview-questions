@@ -296,6 +296,7 @@ https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an
 	- add(1)(2,3)(4)(5,6,7);
 	- add(2,3,4,5)(1)();
 	- add(20)(10)(10).toValue();
+	- Solution > <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>
 ##### 61. Explain different type of web caching  
 ##### 62. Difference between http, https and http2 protocols 
 
