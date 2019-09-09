@@ -1,14 +1,14 @@
 ## Interview Questions
 
-### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/js.md)
-### React
-### [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs-questions.md)
+### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/js.md) [60+ Questions]
+### [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs-questions.md) [30+ Questions]
 ### CSS & CSS3
 ### HTML & HTML5
 ### Web Performance
 ### Time Complexity 
 ### Data structure and Algorithm
 ### System Designing 
+### React
 
 
 ---
