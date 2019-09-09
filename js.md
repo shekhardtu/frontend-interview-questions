@@ -292,11 +292,11 @@ console.log(result(1)(2, 3));
 ##### 57. Middelware design pattern: https://gist.github.com/darrenscerri/5c3b3dcbe4d370435cfa
 ##### 59. Web components, npm modules 
 ##### 60. Write a function to evaluate 
-	- add(1)(2)(3);
-	- add(1)(2,3)(4)(5,6,7);
-	- add(2,3,4,5)(1)();
-	- add(20)(10)(10).toValue();
-	- <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>>
+> - add(1)(2)(3);
+> - add(1)(2,3)(4)(5,6,7);
+> - add(2,3,4,5)(1)();
+> - add(20)(10)(10).toValue();
+> - Solution: <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>>
 ##### 61. Explain different type of web caching  
 ##### 62. Difference between http, https and http2 protocols 
 
