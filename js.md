@@ -285,9 +285,9 @@ console.log(result(1)(2, 3));
 
 ##### 54. Difference between get, post, put, delete
 ##### 55. How to use Memoize to cache JavaScript function results and speed up your code 
-https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e
+<https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e>
 ##### 56. How can I display just a portion of an image in HTML/CSS?
-https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an-image-in-html-css
+<https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an-image-in-html-css>
 
 ##### 57. Middelware design pattern: https://gist.github.com/darrenscerri/5c3b3dcbe4d370435cfa
 ##### 59. Web components, npm modules 
@@ -296,7 +296,7 @@ https://stackoverflow.com/questions/57725/how-can-i-display-just-a-portion-of-an
 	- add(1)(2,3)(4)(5,6,7);
 	- add(2,3,4,5)(1)();
 	- add(20)(10)(10).toValue();
-	- Solution > <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>
+	- <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>>
 ##### 61. Explain different type of web caching  
 ##### 62. Difference between http, https and http2 protocols 
 
