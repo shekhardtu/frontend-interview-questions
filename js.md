@@ -33,6 +33,7 @@
 > - Splitwise 
 > - Lazy loading
 > - Modal/Popup 
+> - facebook like/comment module and reply to comment
 > - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
 > - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 	
