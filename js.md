@@ -306,4 +306,6 @@ console.log(result(1)(2, 3));
 > - <https://dev.to/adyngom/28-relevant-javascript-interview-questions-part-i-the-first-4-2a16>
 > - <https://dev.to/adyngom/4-more-relevant-javascript-questions-to-help-fix-the-broken-coding-interview-3b8k>
 > - <https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/>
+> - <https://medium.com/@nabendu82/interview-preparation-basic-javascript-1-3003b0ac3832>
+> - <https://medium.com/@nabendu82/interview-preparation-basic-javascript-2-ad71d09eb0af>
 
