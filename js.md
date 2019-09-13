@@ -308,4 +308,4 @@ console.log(result(1)(2, 3));
 > - <https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/>
 > - <https://medium.com/@nabendu82/interview-preparation-basic-javascript-1-3003b0ac3832>
 > - <https://medium.com/@nabendu82/interview-preparation-basic-javascript-2-ad71d09eb0af>
-
+> - <https://scotch.io/courses/10-need-to-know-javascript-concepts/the-this-keyword>
