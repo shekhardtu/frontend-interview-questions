@@ -20,11 +20,10 @@
 	
 	
 ##### 3. Implement Design pattern of the followings
-> - Singleton:
-> - Prototype: 
-> - Pub/Sub:
-> - Mixin:
-> - Revealing module pattern:
+> - Singleton: <https://codeburst.io/javascript-global-variables-vs-singletons-d825fcab75f9>
+> - Prototype: <https://dev.to/arnas/prototype-design-pattern--2lg2>
+> - Pub/Sub: <https://jarrettmeyer.com/2016/04/18/observer-pattern-in-javascript>
+> - Revealing module pattern: <https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know>
 	
 ##### 4. Design a library or component 
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
