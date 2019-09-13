@@ -32,7 +32,8 @@
 > - Splitwise 
 > - Lazy loading
 > - Modal/Popup 
-> - facebook like/comment module and reply to comment
+> - facebook like/comment module and reply to comment: <https://codepen.io/shekhardtu/pen/gJMOpL?editors=0010>
+> - Simple Calender: <https://medium.com/@nitinpatel_20236/challenge-of-building-a-calendar-with-pure-javascript-a86f1303267d>
 > - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
 > - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 	
@@ -47,6 +48,8 @@
 > - <https://stackoverflow.com/questions/19550253/memory-leaks-and-closures-in-javascript-when-and-why>
 
 ##### 6. Implement jQuery, underscore like library?
+> - <https://www.freecodecamp.org/news/how-to-write-a-jquery-like-library-in-71-lines-of-code-learn-about-the-dom-e9fb99dbc8d2/>
+> - <https://gomakethings.com/how-to-create-your-own-vanilla-js-dom-manipulation-library-like-jquery/>
 
 ##### 7. Implement curry function:
 
@@ -72,14 +75,22 @@ var curry = function (fn, ...m) {
 
 ```
 ##### 8. What new does when we create instance, what if we do not add it etc.
+> - <https://javascript.info/constructor-new>
+
 ##### 9. Difference between classical and prototype inheritence? If you design a language, which one will you choose?
+> - <https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9>
+> - <https://dev.to/crishanks/classical-vs-prototypal-inheritance-2o5a>
+
 ##### 10. Testing framework in detail - How will you test ajax request, fixtures, mocking, spy, stub etc.
 ##### 11. Why immutability is important? How will you bring immutability in JS?
+> - <https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript>
+
 ##### 12. const obj = { "a" : 1 }
 	Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
 
 ##### 13. Object.freeze and Object.seal. Another way of asking is, how will you prevent object property value to be updated or added?
 ##### 14. Event loop in JavaScript
+
 ##### 15. In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
 
 ```js
@@ -104,12 +115,15 @@ console.log(a[b]);
 ```
 
 ##### 17. Difference and uses of Callback, Promise, Observable, Generators 
+> - <https://medium.com/@RupaniChirag/promises-generators-and-observable-in-javascript-9f09bde7528e>
+
 ##### 18. Design a game eg. tic tac toe etc.
 ##### 19. How can I get the depth of the deepest li tag in an unordered list?
-
-http://stackoverflow.com/questions/22248432/calculate-depth-of-unordered-list
+> - <http://stackoverflow.com/questions/22248432/calculate-depth-of-unordered-list>
 
 ##### 20. How will you do dfs in html nodes?
+> - <https://stackoverflow.com/questions/39503861/javascript-only-dom-tree-traversal-dfs-and-bfs>
+
 ##### 21. Write a function to get factorial and cache the result. If it's called next time, return from cache. 
        a. How can you improve the performance of factorial using memoization?      
        b. How can you improve memoization approach since it takes more space?
