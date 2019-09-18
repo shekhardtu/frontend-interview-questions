@@ -28,7 +28,7 @@
 ##### 4. Design a library or component 
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
 > - Auto-complete/Auto Suggest, 
-> - Game timer 
+> - Trello: <https://codepen.io/shekhardtu/pen/eYOPJNg>
 > - Splitwise 
 > - Lazy loading
 > - Modal/Popup 
@@ -36,6 +36,7 @@
 > - Simple Calender: <https://medium.com/@nitinpatel_20236/challenge-of-building-a-calendar-with-pure-javascript-a86f1303267d>
 > - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
 > - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
+		  <https://codepen.io/shekhardtu/pen/ZEzRVpx>
 	
 
 ##### 4. Explain prototypal inheritance with some example 
