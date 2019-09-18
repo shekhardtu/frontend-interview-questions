@@ -179,6 +179,13 @@ for(var i = 1; i <= 5; i++) {
         }, 1000*i);
     })(i);
 }
+
+another fix
+for(let i = 1; i <= 5; i++) {
+   setTimeout(function () {
+     console.log(i);
+    }, 1000*i);
+}
 ```
 ##### 32. Output of following
 ```js
