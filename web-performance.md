@@ -9,3 +9,4 @@
 ##### 6. What is CORS? How does it work?
 
 ##### 7. Explain the purpose of each of the HTTP request types when used with a RESTful web service.
+##### 8. How does browser works? 
