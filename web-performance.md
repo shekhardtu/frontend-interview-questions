@@ -19,3 +19,4 @@
 
 ##### 11. How do you check the performance of your web application? 
 > - <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance>
+> - <https://scotch.io/tutorials/how-to-use-chrome-dev-tools-to-find-performance-bottlenecks#toc-what-is-performance->
