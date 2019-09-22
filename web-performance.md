@@ -14,3 +14,5 @@
 
 ##### 9. Differences between TCP and UDP
 > - <https://www.geeksforgeeks.org/differences-between-tcp-and-udp/>
+
+##### 10. How do you debugg your web application and what are the tools you use? 
