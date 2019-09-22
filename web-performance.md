@@ -16,3 +16,6 @@
 > - <https://www.geeksforgeeks.org/differences-between-tcp-and-udp/>
 
 ##### 10. How do you debugg your web application and what are the tools you use? 
+
+##### 11. How do you check the performance of your web application? 
+> - <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance>
