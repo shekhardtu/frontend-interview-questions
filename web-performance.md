@@ -10,7 +10,8 @@
 
 ##### 7. Explain the purpose of each of the HTTP request types when used with a RESTful web service.
 ##### 8. How does browser works? 
-> - <https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/>
+> - <https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/> (In detail)
+> - <https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509> (Brief)
 
 ##### 9. Differences between TCP and UDP
 > - <https://www.geeksforgeeks.org/differences-between-tcp-and-udp/>
