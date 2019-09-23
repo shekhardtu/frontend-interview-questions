@@ -4,7 +4,7 @@
 ### [HTML & HTML5](https://github.com/harishekhar/frontend-interview-questions/blob/master/html.md) [30+ Questions]
 ### [CSS & CSS3](https://github.com/harishekhar/frontend-interview-questions/blob/master/css.md) [30+ Questions]
 ### [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/js.md) [60+ Questions with solution]
-### [Web Performance](https://github.com/harishekhar/frontend-interview-questions/blob/master/web-performance.md) [30+ Questions]
+### [Web Performance & network](https://github.com/harishekhar/frontend-interview-questions/blob/master/web-performance.md) [30+ Questions]
 ### [Data structure and Algorithm](https://github.com/harishekhar/frontend-interview-questions/blob/master/ds-algo.md) [30+ Questions]
 ### [System Designing](https://github.com/harishekhar/frontend-interview-questions/blob/master/system-design.md) [30+ Questions]
 ### [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs.md) [30+ Questions]
