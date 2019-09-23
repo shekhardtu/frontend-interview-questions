@@ -24,3 +24,7 @@
 
 ##### 12. What happens when I type any URL in the browser?
 > - <https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2>
+
+##### 13. HTTP requests – GET and POST along with associated headers such as Cache-Control, ETag, Status Codes, and Transfer-Encoding.
+##### 14. REST vs RPC.
+##### 15. Security – when to use JSONP, CORs, and iFrame policies.
