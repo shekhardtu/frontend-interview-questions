@@ -20,3 +20,6 @@
 ##### 11. How do you check the performance of your web application? 
 > - <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance>
 > - <https://scotch.io/tutorials/how-to-use-chrome-dev-tools-to-find-performance-bottlenecks#toc-what-is-performance->
+
+##### 12. What happens when I type any URL in the browser?
+> - <https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2>
