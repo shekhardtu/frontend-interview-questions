@@ -1,26 +1,26 @@
 ## Interview Questions
 
 
-### :white_large_square: [HTML & HTML5](https://github.com/harishekhar/frontend-interview-questions/blob/master/html.md) [30+ Questions]
-### :white_large_square: [CSS & CSS3](https://github.com/harishekhar/frontend-interview-questions/blob/master/css.md) [30+ Questions]
-### :white_check_mark: [Javascript](https://github.com/harishekhar/frontend-interview-questions/blob/master/js.md) [60+ Questions with solution]
-### :white_check_mark: [Web Performance & Network](https://github.com/harishekhar/frontend-interview-questions/blob/master/web-performance.md) [30+ Questions]
-### :white_large_square: [Data structure and Algorithm](https://github.com/harishekhar/frontend-interview-questions/blob/master/ds-algo.md) [30+ Questions]
-### :white_large_square: [System Designing](https://github.com/harishekhar/frontend-interview-questions/blob/master/system-design.md) [30+ Questions]
-### :white_large_square: [Vue.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/vuejs.md) [30+ Questions]
-### :white_large_square: [React.js](https://github.com/harishekhar/frontend-interview-questions/blob/master/reactjs.md) [30+ Questions]
+### :white_large_square: [HTML & HTML5](html.md) [0 Questions]
+### :white_large_square: [CSS & CSS3](css.md) [0 Questions]
+### :white_check_mark: [Javascript](js.md) [60+ Questions with solution]
+### :white_check_mark: [Web Performance & Network](web-performance.md) [30+ Questions]
+### :white_large_square: [Data structure and Algorithm](ds-algo.md) [30+ Questions]
+### :white_large_square: [System Designing](system-design.md) [30+ Questions]
+### :white_large_square: [Vue.js](vuejs.md) [30+ Questions]
+### :white_large_square: [React.js](reactjs.md) [0 Questions]
+### :white_large_square: [Problem solving exercises with answers](ProblemSolving.md) [1 Question with solution]
 
 
 
 ---
 
-Important articles to read before your interview
-* [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+### Books to stay updated on frontend tech
+* [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+### Important articles to read before your interview
 * [ThatJsDude](http://www.thatjsdude.com/interview/index.html)
 * [Cracking frontend interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
-
-
-
 
 ### Test your javascript skills
 * [JS quiz - David Shariff](http://davidshariff.com/js-quiz/)
