@@ -1,7 +1,7 @@
 ## Interview Questions
 
 
-### :white_large_square: [HTML & HTML5](html.md) [0 Questions]
+### :white_large_square: [HTML & HTML5](html.md) [10+ Questions]
 ### :white_large_square: [CSS & CSS3](css.md) [0 Questions]
 ### :white_check_mark: [Javascript](js.md) [60+ Questions with solution]
 ### :white_check_mark: [Web Performance & Network](web-performance.md) [30+ Questions]
