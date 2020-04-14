@@ -1,5 +1,5 @@
 ## About HTML
-## HTML question have always been the fun part of frontend interviews, whereas not the tough part but slitly tricky. Usually the asked question are memory based and you can easily impress the inverviewer if you prepare well. We are trying touch upon almost every possible interview question in HTML. Please feel free to contribute, if anything is missing. 
+HTML question have always been the fun part of frontend interviews, whereas not the tough part but slitly tricky. Usually the asked question are memory based and you can easily impress the inverviewer if you prepare well. We are trying touch upon almost every possible interview question in HTML. Please feel free to contribute, if anything is missing. 
 
 ## General discussion about HTML & HTML5
 - What is HTML? 
