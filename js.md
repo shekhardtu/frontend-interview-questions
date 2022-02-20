@@ -26,6 +26,7 @@
 > - Revealing module pattern: <https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know>
 	
 ##### 4. Design a library or component 
+> - How to build a library: <https://www.erikschierboom.com/2015/08/05/building-a-javascript-library/>
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
 > - Auto-complete/Auto Suggest, 
 > - Trello: <https://codepen.io/shekhardtu/pen/eYOPJNg>
