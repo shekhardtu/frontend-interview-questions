@@ -3,7 +3,7 @@ HTML question have always been the fun part of frontend interviews, whereas not 
 
 ## General discussion about HTML & HTML5
 - What is HTML? 
-- What does it mean <b>semantic tags</b>? Any example? 
+- What do mean by <b>semantic tags</b>? Any example? 
 - Why HTML is not a programming language?
 - What is a self closing tag? When self-closing tags can give unexpected results? 
 - Difference between markup language, programming language and scripting language? 
