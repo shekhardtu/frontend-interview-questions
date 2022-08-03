@@ -1,13 +1,13 @@
 
 ##### 1. Write poly-fill of the followings (Minimal Implementation) 
-> - Bind: <https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df>
-> - Reduce: <https://gist.github.com/harishekhar/80425b082e99fb2aa6270d436e8bbeaa>
-> - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
-> - Map: <https://gist.github.com/harishekhar/19272c865ccdce8359d20579678c1f4d>
-> - Some: <https://gist.github.com/harishekhar/355acf3c8e5847c7057a78d3d22c8d1b>
-> - Every: <https://gist.github.com/harishekhar/a3c9be0ead9f0b20cae268709c32e8ed>
-> - ForEach: <https://gist.github.com/harishekhar/1c2ed226b191e512824f392f0e31d50d>
-> - Promise.all: <https://gist.github.com/harishekhar/79c193ff58f76e2abacf752ae4780775/>
+> - Bind: <https://gist.github.com/shekhardtu/1eded01d275e2dd9b089f2886ff9d9df>
+> - Reduce: <https://gist.github.com/shekhardtu/80425b082e99fb2aa6270d436e8bbeaa>
+> - Filter: <https://gist.github.com/shekhardtu/f782ecc4c33898579652919cd50b28d1>
+> - Map: <https://gist.github.com/shekhardtu/19272c865ccdce8359d20579678c1f4d>
+> - Some: <https://gist.github.com/shekhardtu/355acf3c8e5847c7057a78d3d22c8d1b>
+> - Every: <https://gist.github.com/shekhardtu/a3c9be0ead9f0b20cae268709c32e8ed>
+> - ForEach: <https://gist.github.com/shekhardtu/1c2ed226b191e512824f392f0e31d50d>
+> - Promise.all: <https://gist.github.com/shekhardtu/79c193ff58f76e2abacf752ae4780775/>
 > - Object.assign: <https://codepen.io/souporserious/pen/Boavdv?editors=1010>
 > - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
@@ -16,7 +16,7 @@
 > - Debounce: <https://davidwalsh.name/javascript-debounce-function>
 > - Throttle: <https://css-tricks.com/debouncing-throttling-explained-examples/>
 > - Memomize: <https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/>
-> - Object Deep Clone: <https://gist.github.com/harishekhar/28247be45237a592cdfd7e858b92372d>
+> - Object Deep Clone: <https://gist.github.com/shekhardtu/28247be45237a592cdfd7e858b92372d>
 
 	
 	
@@ -321,7 +321,7 @@ console.log(result(1)(2, 3));
 > - add(1)(2,3)(4)(5,6,7);
 > - add(2,3,4,5)(1)();
 > - add(20)(10)(10).toValue();
-> - Solution: <https://gist.github.com/harishekhar/b7f3e618f2fd225e1a3a6d9d19f8c708>>
+> - Solution: <https://gist.github.com/shekhardtu/b7f3e618f2fd225e1a3a6d9d19f8c708>>
 ##### 61. Explain different type of web caching  
 ##### 62. Difference between http, https and http2 protocols 
 ##### 63. What is tail call optimization
