@@ -35,11 +35,13 @@
 > - Splitwise 
 > - Lazy loading
 > - Modal/Popup 
+> - Drag and Drop: <https://codesandbox.io/s/drag-and-drop-in-vuejs-96tmg4>
 > - facebook like/comment module and reply to comment: <https://codepen.io/shekhardtu/pen/gJMOpL?editors=0010>
 > - Simple Calender: <https://medium.com/@nitinpatel_20236/challenge-of-building-a-calendar-with-pure-javascript-a86f1303267d>
 > - Autosuggest multiple tags: <https://codepen.io/shekhardtu/pen/ymzXgv>
 > - Progress bar: <https://codepen.io/shekhardtu/pen/ROEJyx?editors=0010>
 		  <https://codepen.io/shekhardtu/pen/ZEzRVpx>
+		  
 	
 
 ##### 4. Explain prototypal inheritance with some example 
