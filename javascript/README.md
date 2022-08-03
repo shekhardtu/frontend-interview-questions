@@ -6,6 +6,8 @@
 > - Map: <https://gist.github.com/harishekhar/19272c865ccdce8359d20579678c1f4d>
 > - Some: <https://gist.github.com/harishekhar/355acf3c8e5847c7057a78d3d22c8d1b>
 > - Every: <https://gist.github.com/harishekhar/a3c9be0ead9f0b20cae268709c32e8ed>
+> - ForEach: <https://gist.github.com/harishekhar/1c2ed226b191e512824f392f0e31d50d>
+> - Promise.all: <https://gist.github.com/harishekhar/79c193ff58f76e2abacf752ae4780775/>
 > - Object.assign: <https://codepen.io/souporserious/pen/Boavdv?editors=1010>
 > - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
