@@ -27,14 +27,14 @@
 > - Pub/Sub: <https://jarrettmeyer.com/2016/04/18/observer-pattern-in-javascript>
 > - Revealing module pattern: <https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know>
 	
-##### 4. Design a library or component 
+##### 4. Design a library or component / frontend assignment / live coding/ machine coding round
 > - How to build a library: <https://www.erikschierboom.com/2015/08/05/building-a-javascript-library/>
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
-> - Auto-complete/Auto Suggest, 
+> - Auto-complete/Auto Suggest: <https://codesandbox.io/s/focused-swartz-qhjxdn?file=/src/index.js>
 > - Trello: <https://codepen.io/shekhardtu/pen/eYOPJNg>
 > - Splitwise 
 > - Lazy loading
-> - Modal/Popup 
+> - Modal/Popup: <https://codesandbox.io/s/unruffled-jasper-tm7cwp?file=/src/App.js>
 > - Drag and Drop: <https://codesandbox.io/s/drag-and-drop-in-vuejs-96tmg4>
 > - facebook like/comment module and reply to comment: <https://codepen.io/shekhardtu/pen/gJMOpL?editors=0010>
 > - Simple Calender: <https://medium.com/@nitinpatel_20236/challenge-of-building-a-calendar-with-pure-javascript-a86f1303267d>
