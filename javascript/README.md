@@ -30,7 +30,8 @@
 ##### 4. Design a library or component / frontend assignment / live coding/ machine coding round
 > - How to build a library: <https://www.erikschierboom.com/2015/08/05/building-a-javascript-library/>
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
-> - Auto-complete/Auto Suggest: <https://codesandbox.io/s/focused-swartz-qhjxdn?file=/src/index.js>
+> - Auto-complete/Auto Suggest: [JavaScript] <https://codesandbox.io/s/focused-swartz-qhjxdn?file=/src/index.js>
+> - Auto-complete/Auto Suggest:	[React] <https://codesandbox.io/s/autocomplete-autosuggest-in-reactjs-11vpqd?file=/src/App.js>
 > - Trello: <https://codepen.io/shekhardtu/pen/eYOPJNg>
 > - Splitwise 
 > - Lazy loading
