@@ -22,7 +22,7 @@
 	
 	
 ##### 3. Implement Design pattern of the followings
-> - Singleton: <https://codeburst.io/javascript-global-variables-vs-singletons-d825fcab75f9>
+> - Singleton: <https://gist.github.com/shekhardtu/4cbf9e1e1e8598870e9e04f813c50a15>
 > - Prototype: <https://dev.to/arnas/prototype-design-pattern--2lg2>
 > - Pub/Sub: <https://jarrettmeyer.com/2016/04/18/observer-pattern-in-javascript>
 > - Revealing module pattern: <https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know>
