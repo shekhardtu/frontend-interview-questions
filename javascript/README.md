@@ -140,7 +140,7 @@ console.log(a[b]);
 ##### 23. How will you handle cross site scripting, sanitization etc.?
 ##### 24. How will you handle date - time in your product?
 ##### 25. What is Cross-site request forgery(CSRF) and How will you save site from Cross-site request forgery?
-	a. https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
+	https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
 ##### 26. How declare static variable and function and what's the use?
 ##### 27. What will be output of below:
 ```js
