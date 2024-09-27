@@ -89,13 +89,52 @@ var curry = function (fn, ...m) {
 > - <https://dev.to/crishanks/classical-vs-prototypal-inheritance-2o5a>
 
 ##### 10. Testing framework in detail - How will you test ajax request, fixtures, mocking, spy, stub etc.
+To test AJAX requests, you can use a combination of testing frameworks and libraries like:
+
+Jest for unit testing
+Sinon.js for spies, stubs, and mocks
+nock or fetch-mock to mock HTTP requests For example:
+Spy: Tracks calls made to a function.
+Stub: Replaces a function to control its behavior in a test.
+Mock: Simulates external services or APIs. For AJAX requests, use a library like axios or fetch. To mock AJAX requests, use fetch-mock to simulate API responses.
+js
+
+```javascript
+import fetchMock from 'fetch-mock';
+import { getData } from './api'; // Your function making API call
+
+test('fetches data successfully', async () => {
+  fetchMock.get('https://api.example.com/data', { data: [1, 2, 3] });
+
+  const response = await getData();
+  expect(response.data).toEqual([1, 2, 3]);
+
+  fetchMock.restore();
+});
+```
+
 ##### 11. Why immutability is important? How will you bring immutability in JS?
 > - <https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript>
 
-##### 12. const obj = { "a" : 1 }
-	Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
+##### 12. const obj = { "a" : 1 }, Can I change obj.a and why can I change it if const means that variable cannot be reassigned or re-declared?
+Yes, you can change obj.a. The const keyword prevents reassignment of the obj variable itself, but the contents (properties) of the object can still be modified. In JavaScript, const does not create immutable objects, only immutable references.
+
+```js
+
+const obj = { a: 1 };
+obj.a = 2; // This works because you're not reassigning the object, only changing a property
+```
 
 ##### 13. Object.freeze and Object.seal. Another way of asking is, how will you prevent object property value to be updated or added?
+Object.freeze(obj): Prevents any modifications to the properties and values of an object. The object becomes fully immutable.
+Object.seal(obj): Prevents new properties from being added or deleted but allows modifications to existing properties.
+```js
+Copy code
+const obj = { a: 1 };
+Object.freeze(obj);
+obj.a = 2; // No effect, obj.a remains 1
+```
+
 ##### 14. Event loop in JavaScript
 
 ##### 15. In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
@@ -141,13 +180,21 @@ console.log(a[b]);
 ##### 24. How will you handle date - time in your product?
 ##### 25. What is Cross-site request forgery(CSRF) and How will you save site from Cross-site request forgery?
 	https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
+CSRF is an attack where an unauthorized command is transmitted from a user that the website trusts. It exploits the trust that a site has in a user's browser.
+Protection methods:
+CSRF Tokens: Generate unique tokens for each user session and validate them with every state-changing request.
+SameSite cookies: Setting cookies with the SameSite flag helps mitigate CSRF attacks.
+Double Submit Cookies: Sending CSRF tokens in both cookies and request headers.
+
 ##### 26. How declare static variable and function and what's the use?
 ##### 27. What will be output of below:
 ```js
-X = [1,2]
-X.push(X)
-console.log(X)
+X = [1,2];
+X.push(X);
+console.log(X);
 ```
+Output: [1, 2, Array(3)] Explanation: The push method adds the reference of the array X to itself, so the array includes itself as an element. If you attempt to access the third element (X[2]), it will point back to the entire array X, leading to circular references.
+
 ##### 28. How will you replace backslash in a string? 
 ##### 29. What and why will be output of following:
 ```js
@@ -233,6 +280,20 @@ var head = {};
     console.log('newNode.next => ', newNode.next);
 ```
 ##### 35. Difference between reflow and repaint? How to avoid it? What is RequestAnimationFrame?
+Reflow: Occurs when the browser calculates the layout of part or all of the page. Changes in DOM structure or size triggers a reflow.
+Repaint: Occurs when visual parts of the page (e.g., color) change without affecting layout.
+Avoiding reflow/repaint:
+Minimize DOM manipulations.
+Use visibility: hidden instead of display: none (as display: none triggers reflow).
+Batch DOM updates (e.g., using DocumentFragment).
+requestAnimationFrame: It synchronizes your code execution with the browser's repaint cycle for smooth animations.
+```js
+function animate() {
+  // Animation logic
+  requestAnimationFrame(animate);
+}
+requestAnimationFrame(animate);
+```
 	
 ##### 36. How to handle images in responsive website - srcset, sizes, base64, blurring effect using canvas etc.
 
@@ -280,6 +341,31 @@ curry(2)(3)(4);
 	Ways to align the item center,
         flex box, grid layout, box-shadow
 ##### 48. setInterval and clearInterval using setTimeout and clearTimeout
+You can create a custom setInterval using setTimeout like this:
+
+```js
+function customSetInterval(fn, delay) {
+  let intervalId;
+
+  function repeat() {
+    fn();
+    intervalId = setTimeout(repeat, delay);
+  }
+
+  intervalId = setTimeout(repeat, delay);
+  return {
+    clear() {
+      clearTimeout(intervalId);
+    }
+  };
+}
+
+const interval = customSetInterval(() => console.log('Running...'), 1000);
+
+// To clear the interval after some time
+setTimeout(() => interval.clear(), 5000);
+```
+
 ##### 49. CSS Interview questions: https://css-tricks.com/interview-questions-css/
 ##### 50. Write a curry function to execute the following questions
 
