@@ -9,7 +9,7 @@
 > - ForEach: <https://gist.github.com/shekhardtu/1c2ed226b191e512824f392f0e31d50d>
 > - Promise.all: <https://gist.github.com/shekhardtu/79c193ff58f76e2abacf752ae4780775/>
 > - Object.assign: <https://gist.github.com/shekhardtu/0f4539344c28f81613a7b0ab6d12d287>
-> - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
+> - Promise: <https://gist.github.com/shekhardtu/0f478b19cacaef66f6a01aaa041b8941>
 
 
 ##### 2. Explain and write standard functions of the followings
