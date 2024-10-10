@@ -136,6 +136,7 @@ obj.a = 2; // No effect, obj.a remains 1
 ```
 
 ##### 14. Event loop in JavaScript
+> - <https://gist.github.com/shekhardtu/f7c948be9090b760556639031a5818e1>
 
 ##### 15. In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
 
