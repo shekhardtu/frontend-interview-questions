@@ -6,7 +6,7 @@
 
 ##### 4. Explain the front end architecture of the google word? How will you structure its api, classes, data structure and rendering part?
 
-##### 5. Explain the front end architecture of the google word? How will you structure its api, classes, data structure and rendering part?
+##### 5. Explain the front end architecture of the event booking application, like BookMyShow? How will you structure its api, classes, data structure and rendering part?
 
 ##### 6. Explain the front end architecture of the google sheets? How will you structure its api, classes, data structure and rendering part?
 
