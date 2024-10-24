@@ -1,14 +1,10 @@
 ## Interview Questions
 
-
-### :white_large_square: [HTML & HTML5](html/) [10+ Questions]
-### :white_large_square: [CSS & CSS3](css/) [0 Questions]
+### :white_large_square: [Data structure and Algorithm](ds-algo.md) [30+ Questions]
 ### :white_check_mark: [Javascript](javascript/) [60+ Questions with solution]
 ### :white_check_mark: [Web Performance & Network](web-performance.md) [30+ Questions]
-### :white_large_square: [Data structure and Algorithm](ds-algo.md) [30+ Questions]
 ### :white_large_square: [System Designing](system-design.md) [30+ Questions]
-### :white_large_square: [Vue.js](vuejs.md) [30+ Questions]
-### :white_large_square: [React.js](reactjs.md) [0 Questions]
+### :white_large_square: [Machine Coding Round](machine_coding.md) [30+ Questions]
 ### :white_large_square: [Problem solving exercises with answers](ProblemSolving.md) [1 Question with solution]
 
 
