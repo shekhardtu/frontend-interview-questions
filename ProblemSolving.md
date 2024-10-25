@@ -1,6 +1,23 @@
 # Programming problems for Frontend engineers 
 - Create and array of 1000 promises and execute them in batches of 10
-- ```js
+- ```const promisified = (val) => 
+  new Promise((resolve) => setTimeout(() => resolve(`Promised ${val}`), 0));
+
+const arr100 = Array.from({ length: 100 }, (_, i) => promisified(i));
+
+async function printInBatch(batchSize) {
+  for (let i = 0; i < arr100.length; i += batchSize) {
+    const batch = arr100.slice(i, i + batchSize);
+    const results = await Promise.all(batch);
+    console.log(results);
+  }
+}
+
+printInBatch(5).catch(console.error);
+
+
+- Write a program to implement the LRUCache
+```js
   class LRUCache {
   constructor(size) {
     this.size = size;
@@ -42,7 +59,4 @@ console.log(lruCache.get(1));
 lruCache.put(4, 4); // Cache capacity is 2, evicts key 1, Cache is {3=3, 4=4}
 console.log(lruCache.get(1)); // returns -1 (not found) // -1
 console.log(lruCache.get(3)); // returns 3, Cache is {4=4, 3=3} // 3
-console.log(lruCache.get(4)); // returns 4, Cache is {3=3, 4=4} // 4
-
-  ```
-- Write a program to implement the LRUCache
+console.log(lruCache.get(4)); // returns 4, Cache is {3=3, 4=4} // 4```
